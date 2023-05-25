@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "一个人丶99"
   text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline:
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 关于我
+      link: ./about/about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Hexo 博客
+      link: "https://喜欢上一个人.fun/archives"
+    - theme: alt
+      text: FlowUs 博客
+      link: "https://flowus.cn/ygr_99/share/494cda99-322c-4e38-98af-122f02ce016f"
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - title: Feature A
+  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - title: Feature B
+  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - title: Feature C
+  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
