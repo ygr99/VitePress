@@ -4,7 +4,7 @@ import { page } from "./const/links";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/VitePress/",
-  title: "VitePress 一个人丶99",
+  title: "一个人丶99",
   description: "VitePress 一个人丶99,搭好了，后续再想想拿来做什么",
   head: [['link', { rel: 'icon', href: '/picture/avatar.jpg' }]],
   themeConfig: {
@@ -36,7 +36,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/WangGuanJingJi/VitePress" },
     ],
   },
 });
