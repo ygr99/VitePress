@@ -5,7 +5,7 @@ import { page } from "./const/links";
 export default defineConfig({
   base: "/VitePress/",
   title: "一个人丶99",
-  description: "A VitePress Site",
+  description: "VitePress 一个人丶99",
   head: [['link', { rel: 'icon', href: '/picture/avatar.jpg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
