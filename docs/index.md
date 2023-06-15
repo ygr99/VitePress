@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 关于我
-      link: ./about/about
+      link: ./page/about
     - theme: alt
       text: Hexo 博客
       link: "https://喜欢上一个人.fun/archives"
