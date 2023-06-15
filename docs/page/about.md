@@ -2,12 +2,31 @@
 editLink: false
 ---
 
-# 个人介绍(假)
+# 个人介绍
+2002年出生在江西小县城，四川人，21.5岁
 
+大三下，三本体育生，自学计算机前端
 
+外貌：170cm，近视600度戴眼镜，长得帅
+        无审美，不打扮，五音不全，韧带硬
+
+性格：内向，自卑，沉默，中二，本分
+        以自我为中心
+        
+状态：无追求！
+
+人际：一个人，没朋友，没谈过恋爱。
+
+爱好：无
+
+技术：没技术！JavaScript 不熟悉
+
+---
+
+以下内容假，内容来自：[ZiuChen/ZiuChen.github.io: 基于VitePress的个人主页](https://github.com/ZiuChen/ZiuChen.github.io)
 ![logo](/picture/avatar.jpg)
 
-内容来自：[ZiuChen/ZiuChen.github.io: 基于VitePress的个人主页](https://github.com/ZiuChen/ZiuChen.github.io)
+
 
 北京交通大学（BeijingJiaoTong University）电子信息工程学院本科在读
 
