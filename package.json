@@ -8,12 +8,17 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "deploy:win": "powershell bin/autoDeploy.bat"
+    "deploy:win": "powershell bin/autoDeploy.bat",
+    "documate:upload": "documate upload"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@documate/documate": "^0.2.1",
     "vitepress": "1.0.0-beta.1"
+  },
+  "dependencies": {
+    "@documate/vue": "^0.3.1"
   }
 }

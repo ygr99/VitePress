@@ -18,7 +18,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "博客",
+        text: "其他博客",
         items: [
           { text: "Hexo 博客", link: "https://喜欢上一个人.fun/archives/" },
           {

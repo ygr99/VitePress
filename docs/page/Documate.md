@@ -1,0 +1,3 @@
+What is Documate?
+
+Documate is an open-source tool that integrates an AI chat dialog into your documentation site. It can generate real-time answers to user questions and acts as a "ChatGPT" for your platform. It is versatile and can be integrated with popular frameworks like VitePress, Docsify, and General Vue Project. It is easy to use, fully controllable, fully accessible, and fully customizable. To get started with Docsify, you need to initialize Documate by installing the @documate/documate package and creating a documate.json file. You also need to add the Documate UI to your project using the @documate/vanilla component. Finally, you need to connect to the backend by providing the endpoint in the data-endpoint attribute of the ask-ai button.
